@@ -1,0 +1,290 @@
+{
+  "guilds": {
+    "1457402357716353229": {
+      "config": {
+        "tickets": {
+          "types": [
+            {
+              "id": "parceria",
+              "name": "Parceria",
+              "keywords": [
+                "parceria",
+                "parceiro",
+                "divulgacao",
+                "divulgação",
+                "collab"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            },
+            {
+              "id": "suporte",
+              "name": "Suporte",
+              "keywords": [
+                "suporte",
+                "ajuda",
+                "erro",
+                "bug",
+                "problema"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            },
+            {
+              "id": "denuncia",
+              "name": "Denuncia",
+              "keywords": [
+                "denuncia",
+                "denúncia",
+                "report",
+                "acusacao",
+                "acusação"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            }
+          ]
+        },
+        "voiceRanks": [
+          {
+            "id": "staff",
+            "name": "Staff",
+            "roleIds": [],
+            "reportChannelId": null,
+            "includeEveryone": false
+          },
+          {
+            "id": "comunidade",
+            "name": "Comunidade",
+            "roleIds": [],
+            "reportChannelId": null,
+            "includeEveryone": true
+          }
+        ],
+        "economy": {
+          "currencyName": "coins",
+          "rewards": {
+            "daily": 500,
+            "weekly": 2500,
+            "monthly": 9000,
+            "workMin": 120,
+            "workMax": 420
+          },
+          "cooldownsMs": {
+            "daily": 86400000,
+            "weekly": 604800000,
+            "monthly": 2592000000,
+            "work": 1800000
+          },
+          "shop": [
+            {
+              "id": "perfil-azul",
+              "name": "Perfil Azul Premium",
+              "description": "Tema azul profissional para o perfil.",
+              "price": 3000,
+              "type": "profileTheme",
+              "value": "azul"
+            },
+            {
+              "id": "perfil-verde",
+              "name": "Perfil Verde Elite",
+              "description": "Tema verde elegante para o perfil.",
+              "price": 3000,
+              "type": "profileTheme",
+              "value": "verde"
+            }
+          ]
+        }
+      },
+      "tickets": {
+        "open": {}
+      },
+      "voice": {
+        "activeSessions": {},
+        "totalsMs": {}
+      },
+      "economy": {
+        "users": {},
+        "transactions": []
+      }
+    },
+    "1511504224096096406": {
+      "config": {
+        "tickets": {
+          "types": [
+            {
+              "id": "parceria",
+              "name": "Parceria",
+              "keywords": [
+                "parceria",
+                "parceiro",
+                "divulgacao",
+                "divulgação",
+                "collab"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            },
+            {
+              "id": "suporte",
+              "name": "Suporte",
+              "keywords": [
+                "suporte",
+                "ajuda",
+                "erro",
+                "bug",
+                "problema"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            },
+            {
+              "id": "denuncia",
+              "name": "Denuncia",
+              "keywords": [
+                "denuncia",
+                "denúncia",
+                "report",
+                "acusacao",
+                "acusação"
+              ],
+              "allowedRoleIds": [],
+              "categoryId": null,
+              "transcriptChannelId": null
+            }
+          ]
+        },
+        "voiceRanks": [
+          {
+            "id": "staff",
+            "name": "Staff",
+            "roleIds": [],
+            "reportChannelId": null,
+            "includeEveryone": false
+          },
+          {
+            "id": "comunidade",
+            "name": "Comunidade",
+            "roleIds": [],
+            "reportChannelId": null,
+            "includeEveryone": true
+          }
+        ],
+        "economy": {
+          "currencyName": "coins",
+          "rewards": {
+            "daily": 500,
+            "weekly": 2500,
+            "monthly": 9000,
+            "workMin": 120,
+            "workMax": 420
+          },
+          "cooldownsMs": {
+            "daily": 86400000,
+            "weekly": 604800000,
+            "monthly": 2592000000,
+            "work": 1800000
+          },
+          "shop": [
+            {
+              "id": "perfil-azul",
+              "name": "Perfil Azul Premium",
+              "description": "Tema azul profissional para o perfil.",
+              "price": 3000,
+              "type": "profileTheme",
+              "value": "azul"
+            },
+            {
+              "id": "perfil-verde",
+              "name": "Perfil Verde Elite",
+              "description": "Tema verde elegante para o perfil.",
+              "price": 3000,
+              "type": "profileTheme",
+              "value": "verde"
+            }
+          ]
+        }
+      },
+      "tickets": {
+        "open": {
+          "1511515289211109376": {
+            "channelId": "1511515289211109376",
+            "ownerId": "1349812947160924253",
+            "typeId": "parceria",
+            "reason": "quero parceria",
+            "claimedBy": "1349812947160924253",
+            "createdAt": 1780443740588
+          }
+        }
+      },
+      "voice": {
+        "activeSessions": {},
+        "totalsMs": {}
+      },
+      "economy": {
+        "users": {
+          "1349812947160924253": {
+            "balance": 9308,
+            "cooldowns": {
+              "daily": 1780443061435,
+              "weekly": 1780443159482,
+              "monthly": 1780443167954,
+              "work": 1780443174291
+            },
+            "inventory": [
+              "perfil-azul"
+            ],
+            "profile": {
+              "theme": "azul"
+            }
+          },
+          "741461246049648650": {
+            "balance": 0,
+            "cooldowns": {},
+            "inventory": [],
+            "profile": {
+              "theme": null
+            }
+          }
+        },
+        "transactions": [
+          {
+            "userId": "1349812947160924253",
+            "amount": 500,
+            "reason": "recompensa_daily",
+            "createdAt": 1780443061436
+          },
+          {
+            "userId": "1349812947160924253",
+            "amount": 2500,
+            "reason": "recompensa_weekly",
+            "createdAt": 1780443159482
+          },
+          {
+            "userId": "1349812947160924253",
+            "amount": 9000,
+            "reason": "recompensa_monthly",
+            "createdAt": 1780443167954
+          },
+          {
+            "userId": "1349812947160924253",
+            "amount": 308,
+            "reason": "trabalho",
+            "createdAt": 1780443174291
+          },
+          {
+            "userId": "1349812947160924253",
+            "amount": -3000,
+            "reason": "compra_perfil-azul",
+            "createdAt": 1780443201627
+          }
+        ]
+      }
+    }
+  }
+}
